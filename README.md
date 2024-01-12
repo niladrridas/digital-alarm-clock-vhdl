@@ -20,4 +20,4 @@ This VHDL project implements a digital alarm clock on an FPGA using Xilinx Vivad
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/your-username/Digital-Alarm-Clock-VHDL.git
+   git clone https://github.com/niladrigithub/Digital-Alarm-Clock-VHDL.git
